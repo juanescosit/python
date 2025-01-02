@@ -8,7 +8,7 @@ Bienvenido al **Curso Básico de Python**. Este repositorio está diseñado para
 
 ### 1. **Introducción a Python**
    - Conceptos básicos introductorios
-   - Primeeros pasos: función print, input, comentarios.
+   - Primeros pasos: función print, input, comentarios.
 
 ## ¿Cómo usar este repositorio?
 
