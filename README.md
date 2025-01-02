@@ -14,11 +14,11 @@ Bienvenido al **Curso Básico de Python**. Este repositorio está diseñado para
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/usuario/curso-basico-python.git
+   git clone https://github.com/juanescosit/python.git
 
 2. Accede al directorio:
    ```bash
-   cd curso-basico-python
+   cd python
 
 4. Sigue los ejemplos y ejercicios organizados en carpetas por tema.
 
